@@ -50,7 +50,9 @@ This project analyzes commercial sales data to uncover insights into sales perfo
 
 ![Customer Analysis](Screenshots/customer_analysis.png)
 
-![Product Analysis](Screenshots/product_analysis.png)
+![Product Base Analysis](Screenshots/product_base_analysis.png)
+
+![Business Insights](Screenshots/business_insights.png)
 
 ## Project Outcome
 This dashboard helps business stakeholders monitor performance, identify growth opportunities, and make data-driven decisions.
