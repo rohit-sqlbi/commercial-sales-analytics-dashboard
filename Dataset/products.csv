@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,mrp,cost_price
+1,Maiores Product,Fruits,Hayer-Sodhi,951.91,631.21
+2,Vel Product,Dairy,"Thaman, Viswanathan and Sandal",585.58,330.55
+3,Nostrum Product,Beverages,"Deep, Johal and Yogi",369.98,282.13
+4,Corporis Product,Dairy,"Bains, Gara and Sama",791.8,703.48
+5,Soluta Product,Dairy,Jha PLC,265.98,192.8
+6,Ratione Product,Snacks,"Varma, Sharma and Som",572.79,450.16
+7,Consequatur Product,Household,Vora and Sons,371.41,195.87
+8,Assumenda Product,Fruits,Ramachandran-Wali,663.5,442.6
+9,Tempore Product,Beverages,"Sama, Bhattacharyya and Ahluwalia",255.59,139.69
+10,Porro Product,Fruits,"Jha, Kadakia and Dada",207.76,154.81
+11,Adipisci Product,Fruits,Suresh-Krishnan,919.87,805.25
+12,Dolore Product,Household,Kota Group,119.77,91.59
+13,Ipsam Product,Fruits,Zacharia-Rau,515.84,273.77
+14,Porro Product,Fruits,Devan Inc,236.44,151.76
+15,Quae Product,Dairy,Kalla-Dara,58.15,41.88
+16,Nulla Product,Household,Ganguly-Gupta,55.3,36.57
+17,Rerum Product,Snacks,"Sankaran, Kashyap and Mahal",191.72,159.79
+18,Minima Product,Beverages,D’Alia-Sanghvi,869.43,718.03
+19,Perspiciatis Product,Fruits,Jain Inc,296.83,221.06
+20,Placeat Product,Beverages,Choudhary Inc,951.45,617.86
+21,Eum Product,Snacks,Thakur Group,589.99,355.25
+22,Eaque Product,Beverages,Yohannan-Manne,447.88,242.91
+23,Commodi Product,Snacks,"Mandal, Sant and Kunda",588.49,377.79
+24,Itaque Product,Dairy,Bandi-Swaminathan,526.36,350.17
+25,Et Product,Fruits,"Sood, Walla and Devan",763.6,588.22
+26,Esse Product,Snacks,"Bhagat, Dey and Sane",296.85,226.57
+27,Rerum Product,Beverages,Reddy PLC,365.99,193.26
+28,Sit Product,Fruits,Rajagopalan Group,896.21,589.8
+29,Quod Product,Dairy,"Gala, Koshy and Saraf",947.53,542.66
+30,Voluptatum Product,Fruits,"Zacharia, Dada and Viswanathan",894.71,503.48
+31,Asperiores Product,Snacks,"Dhawan, Bera and Tandon",431.06,358.18
+32,Suscipit Product,Dairy,Mangat PLC,784.76,405.54
+33,Ducimus Product,Beverages,Wagle-Trivedi,486.81,325.03
+34,Corporis Product,Dairy,Grover Inc,507.59,287.95
+35,Dicta Product,Dairy,"Mane, Sastry and Bhagat",220.59,187.88
+36,Impedit Product,Household,"Butala, Swamy and Kamdar",599.31,433.19
+37,Id Product,Dairy,Dhaliwal-Baral,202.41,119.94
+38,Recusandae Product,Dairy,Sama Ltd,344.93,241.79
+39,Ex Product,Fruits,"Sharma, Balay and Kashyap",857.93,679.99
+40,Minima Product,Beverages,Sengupta Ltd,222.93,196.9
+41,Itaque Product,Fruits,"Ratti, Kapoor and Srivastava",89.74,52.78
+42,Aspernatur Product,Fruits,Bava Inc,87.63,74.88
+43,Corrupti Product,Snacks,Dada Ltd,941.97,823.02
+44,Veniam Product,Fruits,Khanna LLC,516.78,447.83
+45,Sit Product,Household,Agarwal Inc,421.22,317.67
+46,Amet Product,Household,Rajan-Behl,814.66,612.57
+47,Modi Product,Snacks,Ravel LLC,839.11,554.89
+48,Blanditiis Product,Beverages,"Das, D’Alia and Arya",345.55,276.77
+49,Dolores Product,Beverages,"Rajagopal, Baral and Sha",699.75,498.58
+50,Dolorum Product,Fruits,"Mallick, Setty and Warrior",775.7,598.05
+51,Doloremque Product,Fruits,Batta-Bandi,661.56,444.16
+52,Odio Product,Fruits,"Jani, Dora and Vora",168.56,133.6
+53,Quaerat Product,Beverages,Ramanathan-Gole,878.37,728.86
+54,Nulla Product,Dairy,Sama PLC,548.31,306.27
+55,Odit Product,Household,"Thaker, Shere and Dua",296.82,247.3
+56,Occaecati Product,Dairy,Dhingra Inc,436.72,312.74
+57,Vero Product,Dairy,Rana-Dave,56.82,47.61
+58,Consequatur Product,Beverages,"Chanda, Bakshi and Doshi",145.31,97.72
+59,Sunt Product,Dairy,Wali-Sahni,770.24,501.9
+60,Mollitia Product,Snacks,"Virk, Kibe and Mandal",20.01,17.33
+61,Ea Product,Fruits,"Krishna, Dani and Sunder",428.23,257.14
+62,Facere Product,Snacks,Raval-Seth,532.06,445.7
+63,Minus Product,Household,Singh Group,73.54,51.01
+64,Laboriosam Product,Fruits,Dugal Ltd,973.62,687.02
+65,Delectus Product,Dairy,Goyal-Issac,241.6,150.61
+66,Cupiditate Product,Household,Loke Ltd,318.11,231.97
+67,Laboriosam Product,Fruits,"Khurana, Chawla and Sami",317.86,200.28
+68,Voluptates Product,Dairy,Varma and Sons,245.81,126.77
+69,A Product,Snacks,"Deshpande, Mahal and Chaudry",21.44,13.05
+70,Nesciunt Product,Fruits,Badami-Varughese,734.76,369.25
+71,Ex Product,Dairy,Varkey-Arya,967.51,862.38
+72,Aut Product,Snacks,Dixit-Zacharia,239.81,212.54
+73,Ipsum Product,Household,Saxena Inc,669.79,440.76
+74,Incidunt Product,Household,"Rao, Deo and Ravel",747.06,591.18
+75,Ab Product,Household,"Dasgupta, Varma and Ghosh",851.46,543.51
+76,Animi Product,Household,"Lala, Majumdar and Bhat",434.18,333.64
+77,Autem Product,Beverages,"Chad, Ramachandran and Loke",316.87,260.52
+78,Distinctio Product,Fruits,Mangal Ltd,338.79,297.7
+79,Id Product,Fruits,"Anne, Zacharia and Kunda",718.37,474.19
+80,Sapiente Product,Beverages,"Sur, Johal and Din",820.44,667.28
+81,Dolores Product,Dairy,Behl PLC,197.98,120.05
+82,Odit Product,Dairy,Maharaj-Deshpande,383.52,343.68
+83,Magnam Product,Household,Chopra-Kala,903.9,461.27
+84,Animi Product,Snacks,Khatri-Hayer,810.56,600.96
+85,Nihil Product,Dairy,Deo-Lata,985.16,752.47
+86,Labore Product,Snacks,"Jayaraman, Desai and Manda",759.16,588.51
+87,Quia Product,Fruits,Raju-Sarraf,405.33,222.18
+88,Ratione Product,Snacks,"Rama, Gaba and Rajan",598.83,524.22
+89,Perferendis Product,Fruits,"Dey, Talwar and Bhatt",667.79,382.29
+90,At Product,Beverages,Mandal-Saxena,96.89,72.58
+91,Est Product,Beverages,Sidhu LLC,553.61,326.12
+92,Rem Product,Household,Mahal Ltd,715.13,445.44
+93,Dolore Product,Dairy,"Garg, Sheth and Dyal",183.97,132.2
+94,Autem Product,Household,"Kumar, Sha and Tata",785.02,523.51
+95,Ut Product,Fruits,Sura LLC,592.1,334.0
+96,Est Product,Household,Basu LLC,953.18,541.76
+97,Nesciunt Product,Snacks,Shere and Sons,61.57,41.08
+98,Unde Product,Fruits,Trivedi-Jhaveri,280.02,224.83
+99,Exercitationem Product,Beverages,Dugar-Sethi,609.52,523.69
+100,Ad Product,Dairy,"Barad, Rajagopalan and Bumb",310.63,165.77
+101,Fugiat Product,Fruits,Suri Inc,720.14,473.31
+102,Eveniet Product,Fruits,Devan-Sathe,763.83,412.54
+103,Veritatis Product,Snacks,Sane-Kapur,120.47,61.03
+104,Assumenda Product,Dairy,Bhalla and Sons,523.58,400.38
+105,Tenetur Product,Beverages,Krishna Inc,518.71,384.35
+106,Iusto Product,Fruits,Maharaj-Bhatti,381.9,215.85
+107,Reprehenderit Product,Fruits,Trivedi Inc,934.27,554.51
+108,Animi Product,Snacks,Sachdeva Ltd,830.96,423.36
+109,Occaecati Product,Household,"Badal, Chakraborty and Jain",703.27,586.51
+110,Ab Product,Beverages,"Sandhu, Ramachandran and Mahajan",720.04,640.75
+111,Dolore Product,Dairy,"Singh, Chauhan and Chadha",472.48,261.84
+112,Quae Product,Fruits,Edwin LLC,922.57,546.71
+113,Earum Product,Fruits,D’Alia-Kapadia,700.7,593.75
+114,Nobis Product,Beverages,"Das, Balay and Solanki",734.4,639.36
+115,Vel Product,Household,Vaidya-Subramaniam,864.46,577.33
+116,Sapiente Product,Fruits,Sur Group,288.59,150.14
+117,Quam Product,Beverages,Tiwari-Dora,810.93,418.24
+118,Assumenda Product,Snacks,"Sodhi, Lal and Dey",211.34,154.19
+119,Soluta Product,Household,Kaur-Garg,358.44,235.55
+120,Quaerat Product,Dairy,"Solanki, Setty and Tella",348.9,178.45
+121,Accusantium Product,Fruits,"Dixit, Deol and Mann",978.95,717.86
+122,Aperiam Product,Beverages,Tank-Sami,859.41,433.59
+123,Quod Product,Snacks,Date Ltd,707.15,576.29
+124,Minima Product,Dairy,"Wali, Hayer and Ghose",732.52,456.05
+125,Quibusdam Product,Beverages,Kanda-Sharma,570.83,294.61
+126,Corporis Product,Beverages,"Handa, Kunda and Tandon",948.15,697.21
+127,Vero Product,Dairy,Chad-Mane,506.33,333.71
+128,Illo Product,Snacks,Bajaj-Kohli,392.91,349.5
+129,Quia Product,Snacks,Bose Inc,179.77,129.02
+130,Laborum Product,Household,"Jani, Mane and Chandran",790.48,482.27
+131,Minima Product,Fruits,Thaker-Gokhale,739.76,579.81
+132,Explicabo Product,Dairy,"Mahajan, Cheema and Zacharia",396.67,241.41
+133,Illo Product,Dairy,"Ramakrishnan, Raman and Tara",44.69,38.51
+134,Fugit Product,Dairy,Majumdar-Yadav,842.22,547.35
+135,Vero Product,Snacks,"Roy, Sidhu and Randhawa",31.19,22.46
+136,Veritatis Product,Fruits,"Goda, Dutt and Gala",709.63,369.17
+137,Expedita Product,Household,Bose PLC,970.85,650.9
+138,Tempora Product,Beverages,Bhakta and Sons,448.91,373.92
+139,Non Product,Beverages,"Swaminathan, Johal and Dalal",250.27,205.79
+140,Deleniti Product,Dairy,Gala Group,710.77,419.16
+141,Minima Product,Fruits,Ramesh-Dhillon,820.79,484.62
+142,Molestiae Product,Snacks,Saran-Sahota,555.5,459.36
+143,Aspernatur Product,Fruits,"Doctor, Sandhu and Venkatesh",967.69,843.98
+144,Perferendis Product,Fruits,Keer Group,70.64,38.01
+145,Facere Product,Snacks,"Jha, Sood and Kunda",514.7,350.01
+146,Laudantium Product,Dairy,Khanna-Goda,724.08,459.78
+147,Eius Product,Fruits,Kashyap PLC,865.39,734.09
+148,Fugit Product,Beverages,Iyer-Wali,195.67,104.37
+149,Quod Product,Snacks,"Bath, Balasubramanian and Ram",804.0,469.9
+150,Itaque Product,Household,Seth Ltd,561.65,449.87
+151,Laborum Product,Dairy,Mahal and Sons,408.62,212.69
+152,Quibusdam Product,Snacks,Choudhry-Doshi,149.08,103.91
+153,Expedita Product,Household,Lala Inc,867.99,587.49
+154,Harum Product,Household,"Jhaveri, Sawhney and Ben",174.13,110.36
+155,Est Product,Fruits,Sant-Khalsa,323.59,212.87
+156,Quae Product,Fruits,Ganesan-Tella,304.24,216.61
+157,Praesentium Product,Fruits,Sharaf-Luthra,873.99,493.41
+158,Voluptate Product,Snacks,Warrior-Thakur,679.25,495.04
+159,Ad Product,Snacks,Das-Gera,800.75,658.35
+160,Quia Product,Dairy,"Chahal, Brahmbhatt and Bedi",265.46,213.45
+161,Odit Product,Fruits,"Chakraborty, Sagar and Sura",632.38,355.12
+162,Totam Product,Household,Dar-Dara,580.31,324.8
+163,Ex Product,Beverages,Butala-Ratta,836.17,507.78
+164,Consequatur Product,Dairy,Dani LLC,907.97,585.12
+165,Laborum Product,Snacks,"Dara, Behl and Balan",31.91,21.17
+166,Vitae Product,Dairy,Mani PLC,680.54,525.29
+167,Culpa Product,Dairy,"Tandon, Bajwa and Bakshi",70.8,37.01
+168,Velit Product,Dairy,Toor-Ahuja,557.88,286.68
+169,Repellendus Product,Dairy,"Jha, Walia and Kapoor",301.88,198.26
+170,Saepe Product,Beverages,"Iyengar, Ratta and Sabharwal",320.64,249.74
+171,Error Product,Fruits,Mander-Rastogi,365.9,211.26
+172,Reprehenderit Product,Household,"Agarwal, Tiwari and Bhavsar",628.87,475.8
+173,Nostrum Product,Dairy,Biswas Group,347.37,209.79
+174,Explicabo Product,Dairy,Roy-Chada,738.05,630.62
+175,Facere Product,Dairy,Sharaf Ltd,416.44,357.42
+176,Quas Product,Fruits,"Gole, Das and Shere",86.99,53.84
+177,Nulla Product,Snacks,"Krishnamurthy, Shenoy and Dada",788.08,466.54
+178,Consequuntur Product,Snacks,"Gokhale, Kannan and Kari",300.04,199.38
+179,Accusantium Product,Beverages,Suri-Gour,444.11,264.78
+180,Omnis Product,Snacks,Khare-Ramaswamy,691.74,531.92
+181,Voluptatum Product,Dairy,"Ghosh, Tella and Sarna",345.81,287.17
+182,Ex Product,Dairy,Bobal Ltd,75.45,58.04
+183,Quo Product,Dairy,"Bath, Mand and Bhasin",386.44,320.64
+184,Enim Product,Beverages,Ghosh-Vora,945.56,622.93
+185,Sapiente Product,Dairy,Gour-Vaidya,648.9,365.02
+186,Ullam Product,Snacks,Bandi-Chandran,678.05,539.17
+187,Quia Product,Fruits,Wadhwa-Mann,639.64,412.05
+188,Iure Product,Fruits,Rau-Mahajan,215.01,165.24
+189,Quaerat Product,Household,"Dugal, Tata and Vora",429.97,261.53
+190,Quae Product,Snacks,Tailor-Kant,755.92,402.52
+191,Quia Product,Dairy,Borah and Sons,119.35,107.06
+192,Eum Product,Fruits,"Soman, Srinivas and Bora",292.3,164.41
+193,Quod Product,Snacks,"Deo, Dada and Chanda",290.79,260.36
+194,Porro Product,Fruits,"Karpe, Lall and Swamy",443.38,395.01
+195,Officia Product,Dairy,Devan and Sons,980.76,801.8
+196,Ullam Product,Fruits,Sani Group,86.15,65.8
+197,Libero Product,Household,Hora LLC,528.33,386.27
+198,Aspernatur Product,Household,"Ganesh, Toor and Tak",195.78,165.72
+199,Sit Product,Fruits,Dugar and Sons,971.26,598.08
+200,Facere Product,Snacks,"Bassi, Ratta and Batra",131.04,90.03
+201,Iure Product,Snacks,Chaudhari PLC,415.53,310.72
+202,Eligendi Product,Snacks,Kale-Ram,743.13,493.79
+203,Modi Product,Fruits,Bhasin LLC,710.46,476.71
+204,Aliquam Product,Snacks,Ramesh Inc,434.27,274.51
+205,Animi Product,Dairy,Bal Ltd,359.59,260.95
+206,Sunt Product,Household,"Dash, Varma and Rao",409.66,344.21
+207,Assumenda Product,Dairy,Doshi-Kashyap,278.99,161.98
+208,Deserunt Product,Snacks,D’Alia Group,221.23,193.3
+209,Ipsum Product,Dairy,"Anand, Balan and Deol",493.38,382.68
+210,Ipsa Product,Snacks,Dara-Dara,283.16,234.83
+211,Cumque Product,Fruits,Grover LLC,301.71,217.98
+212,Voluptas Product,Dairy,Seth Inc,663.62,538.73
+213,Necessitatibus Product,Fruits,"Kalla, Sur and Som",969.17,490.87
+214,Quaerat Product,Fruits,"Din, Kale and Bains",611.56,505.98
+215,Quibusdam Product,Beverages,Sawhney-Sampath,95.44,49.25
+216,Iusto Product,Snacks,"Kothari, Verma and Saran",94.07,80.52
+217,Laborum Product,Household,Goyal-Bajwa,952.39,854.09
+218,Eaque Product,Snacks,Verma-Korpal,311.34,192.29
+219,Aliquid Product,Household,Toor Group,110.23,64.39
+220,Veritatis Product,Snacks,Dora-Ganesh,607.06,489.38
+221,Ratione Product,Fruits,Tata and Sons,631.18,379.47
+222,Et Product,Dairy,Kapur-Kaul,655.53,554.73
+223,Nemo Product,Dairy,"Rana, Sethi and Maharaj",282.05,152.63
+224,Laborum Product,Beverages,Cherian-Hans,34.81,19.16
+225,Neque Product,Household,Savant Ltd,965.72,861.09
+226,Quia Product,Household,"Golla, Doctor and Ghosh",265.88,204.6
+227,Illo Product,Household,Gour Group,682.51,572.46
+228,Aliquid Product,Fruits,"Dalal, Bail and Choudhary",712.5,448.68
+229,Reiciendis Product,Household,Rastogi Group,617.81,476.08
+230,Sunt Product,Dairy,Chahal-Date,326.65,240.97
+231,Voluptates Product,Fruits,Goda-Bakshi,285.67,211.76
+232,Recusandae Product,Snacks,"Kade, Kuruvilla and Chakrabarti",605.71,468.22
+233,Consequuntur Product,Household,Chander Ltd,868.77,634.33
+234,Quos Product,Household,Deo-Yohannan,947.8,636.57
+235,Illo Product,Snacks,Kapadia-Ratti,123.79,75.56
+236,Iste Product,Household,Ghosh Ltd,171.73,138.66
+237,Excepturi Product,Snacks,Mahajan Group,945.84,558.53
+238,Voluptatum Product,Fruits,Rau-Din,741.8,576.34
+239,Alias Product,Dairy,"Sethi, Raman and Khanna",885.33,525.3
+240,Corporis Product,Snacks,Apte-Dhawan,218.58,163.96
+241,Repellendus Product,Beverages,Iyer Group,595.83,475.97
+242,Quo Product,Snacks,Ben PLC,707.12,415.42
+243,Asperiores Product,Household,"Sunder, Bose and Dhawan",686.51,359.72
+244,Rem Product,Fruits,"Tandon, Sabharwal and Barad",419.99,232.0
+245,Incidunt Product,Fruits,Boase-Kaul,35.09,26.05
+246,Eos Product,Snacks,"Mander, Kannan and Vaidya",591.27,496.54
+247,Natus Product,Dairy,"Sharma, Bhatnagar and Ravi",268.04,138.84
+248,Harum Product,Beverages,Cheema Inc,461.25,366.08
+249,Mollitia Product,Fruits,Bora Group,958.43,610.07
+250,Ullam Product,Household,Sama-Balan,411.05,284.2
+251,Alias Product,Household,"Chadha, Bava and Taneja",843.01,734.72
+252,Corporis Product,Dairy,Bhargava-Bhavsar,204.77,129.58
+253,Aliquid Product,Fruits,Bal Inc,679.01,465.89
+254,Incidunt Product,Snacks,"Mann, Ganesan and Kakar",977.47,494.08
+255,Praesentium Product,Household,Kuruvilla Ltd,119.86,63.84
+256,Optio Product,Dairy,Bhatnagar Inc,28.15,16.99
+257,Architecto Product,Fruits,Dube-Sharaf,444.91,227.41
+258,Ea Product,Fruits,"Sankar, Khatri and Sankaran",110.77,83.36
+259,Error Product,Fruits,Ahuja and Sons,753.42,505.21
+260,Distinctio Product,Fruits,Sane PLC,916.26,659.03
+261,Eum Product,Fruits,"Mander, Babu and Mani",445.34,253.78
+262,Beatae Product,Household,Jhaveri LLC,273.54,169.15
+263,Ipsa Product,Dairy,Uppal-Bal,445.72,341.21
+264,Quasi Product,Fruits,Krishna LLC,728.98,645.96
+265,Tempore Product,Beverages,Sinha-Kala,28.87,15.02
+266,Repellat Product,Beverages,Kant Group,597.66,511.69
+267,Magnam Product,Dairy,Sheth-Atwal,621.03,453.82
+268,Laborum Product,Snacks,Khanna-Kota,644.93,467.94
+269,Pariatur Product,Snacks,"Barman, Biswas and Boase",257.18,180.05
+270,Soluta Product,Snacks,"Apte, Acharya and Kibe",719.77,379.86
+271,Ducimus Product,Beverages,Rama LLC,109.56,58.72
+272,Debitis Product,Snacks,Sagar-Sule,215.28,159.39
+273,Blanditiis Product,Household,Ganesh Inc,879.92,559.97
+274,Sit Product,Fruits,Choudhary Inc,743.95,644.94
+275,Iste Product,Beverages,"Guha, Yadav and Kakar",33.47,22.18
+276,Eos Product,Dairy,Amble and Sons,263.41,146.8
+277,Voluptatem Product,Dairy,Bhardwaj and Sons,230.12,180.85
+278,Facere Product,Fruits,Basak-Tella,285.39,176.18
+279,Consequuntur Product,Beverages,Warrior LLC,262.61,186.5
+280,Sunt Product,Snacks,Ramesh-Sridhar,81.28,63.33
+281,Similique Product,Snacks,"Arya, Kuruvilla and Lad",469.76,404.04
+282,Molestiae Product,Household,"Singhal, Goswami and Dhar",738.08,602.92
+283,Nostrum Product,Household,Balan Group,614.6,473.58
+284,Excepturi Product,Snacks,"Gole, Manda and Sant",679.41,524.4
+285,Exercitationem Product,Dairy,"Bose, Bala and Chowdhury",99.53,87.42
+286,Odio Product,Dairy,Desai Inc,952.46,588.93
+287,Soluta Product,Household,"Loke, Halder and Dhar",841.72,421.23
+288,Asperiores Product,Fruits,Kulkarni Inc,808.99,492.5
+289,Sunt Product,Snacks,Saran LLC,826.52,485.3
+290,Hic Product,Household,Golla-Warrior,934.06,714.31
+291,Sed Product,Household,Hayer-Mani,553.37,416.96
+292,Odio Product,Snacks,"Wadhwa, Mane and Lal",216.28,159.48
+293,Molestias Product,Snacks,Goda-Ghosh,624.45,316.28
+294,A Product,Dairy,Garg-Grover,748.02,592.07
+295,Quas Product,Fruits,"Raval, Sampath and Sundaram",743.16,467.75
+296,Esse Product,Fruits,Loyal Ltd,531.02,406.77
+297,Impedit Product,Snacks,"Vaidya, Contractor and Ranganathan",87.09,62.93
+298,Omnis Product,Beverages,Kant LLC,383.69,244.45
+299,Explicabo Product,Household,Bhandari Group,922.35,510.83
+300,Soluta Product,Household,Bhasin Ltd,592.76,318.77
+301,Tenetur Product,Snacks,Gara-Bains,547.57,455.91
+302,Voluptatum Product,Beverages,"Dey, Kant and Zachariah",283.48,245.88
+303,Ratione Product,Dairy,Loyal-Chauhan,381.08,289.59
+304,Minima Product,Snacks,"Ramanathan, Singh and Rao",897.44,485.85
+305,Dicta Product,Snacks,"Rajagopal, Bath and Banerjee",673.13,444.81
+306,Rerum Product,Household,Sami-Bhatnagar,791.64,626.64
+307,Distinctio Product,Snacks,"Kaul, Babu and Mani",465.26,377.76
+308,Quae Product,Snacks,Sibal-Bakshi,637.64,348.97
+309,Ad Product,Snacks,Kaur Ltd,263.42,131.71
+310,Nemo Product,Household,"Malhotra, Ganguly and Dayal",711.35,558.31
+311,Repellendus Product,Dairy,Bobal Group,439.05,282.15
+312,Repudiandae Product,Dairy,Keer-Handa,453.69,273.03
+313,Eius Product,Snacks,"Soni, Mandal and Yogi",656.34,331.56
+314,Quam Product,Household,"Walia, Koshy and Bassi",937.56,671.41
+315,Porro Product,Dairy,Mani-Doshi,82.73,69.53
+316,Earum Product,Dairy,"Kata, Mangal and Shere",828.25,731.39
+317,Saepe Product,Dairy,"Srinivasan, Bala and Madan",306.54,222.64
+318,Animi Product,Household,Hari LLC,455.04,321.16
+319,Nesciunt Product,Household,Dutt Ltd,41.48,22.15
+320,Quam Product,Snacks,"Dayal, Mand and Kapur",315.03,226.68
+321,Saepe Product,Fruits,Ramanathan-Kota,512.58,334.2
+322,Laudantium Product,Dairy,Bhat and Sons,75.05,55.75
+323,Quasi Product,Fruits,"Aurora, Bobal and Gola",501.27,328.58
+324,Aut Product,Household,Sibal-Chakraborty,928.57,553.54
+325,Assumenda Product,Household,Kaur Inc,123.29,66.33
+326,Voluptatibus Product,Household,Bose-Choudhry,769.15,481.46
+327,Laudantium Product,Fruits,"Ganesan, Krishnan and Bobal",421.48,227.03
+328,Incidunt Product,Household,Bahl-Shere,662.07,377.88
+329,Cupiditate Product,Snacks,"Roy, Tata and Dash",275.03,246.13
+330,Repellendus Product,Household,Sengupta and Sons,176.3,119.47
+331,Dolor Product,Beverages,Ramesh and Sons,177.25,126.33
+332,Aliquid Product,Fruits,"Sabharwal, Sridhar and Kannan",89.08,75.67
+333,At Product,Beverages,Balasubramanian-Seshadri,201.93,181.38
+334,Ratione Product,Household,"Mane, Dutt and Bedi",670.93,491.85
+335,Ad Product,Snacks,"Chad, Dayal and Ray",884.06,729.34
+336,Consequatur Product,Dairy,Gole LLC,817.84,515.87
+337,Ea Product,Household,Aggarwal-Chacko,691.43,430.28
+338,Non Product,Snacks,Khanna-Kale,128.22,84.76
+339,Nisi Product,Fruits,Tailor-Wadhwa,303.4,233.32
+340,Eos Product,Beverages,Buch-Dave,323.61,250.11
+341,Quam Product,Beverages,"Lad, Korpal and Chaudhuri",264.96,165.89
+342,Nisi Product,Beverages,Kothari LLC,524.71,290.31
+343,Dolorem Product,Fruits,Bali Group,544.84,410.24
+344,Facere Product,Snacks,Gala and Sons,369.75,203.85
+345,Dicta Product,Fruits,"Rattan, Dewan and Gara",366.71,268.21
+346,Nam Product,Beverages,Sunder-Kara,831.98,646.76
+347,Eos Product,Household,"Sundaram, Babu and Ramesh",793.51,619.13
+348,Eum Product,Dairy,"Lala, Dewan and Dave",321.64,257.76
+349,Magni Product,Fruits,Deo PLC,915.51,777.4
+350,Incidunt Product,Fruits,Jayaraman-Dara,953.76,667.62
+351,Cum Product,Snacks,Bajaj-Bora,340.21,269.48
+352,Hic Product,Snacks,Sabharwal-Wason,367.34,274.65
+353,Eum Product,Fruits,"Sethi, Krishnamurthy and Wagle",515.52,296.25
+354,Quibusdam Product,Beverages,"Bose, Sathe and Brar",942.3,480.83
+355,Enim Product,Dairy,Jayaraman Ltd,878.79,539.42
+356,Ipsa Product,Snacks,Kakar-Talwar,120.52,81.62
+357,Tempora Product,Beverages,"Kunda, Dey and Acharya",404.88,302.38
+358,Reprehenderit Product,Household,Rastogi-Dani,562.3,472.32
+359,Delectus Product,Snacks,"Desai, Mall and Bose",513.07,296.81
+360,Hic Product,Beverages,Lad Group,209.99,115.54
+361,Distinctio Product,Beverages,Dara-Anne,861.64,762.89
+362,Voluptatem Product,Dairy,Kant PLC,683.4,371.24
+363,Quos Product,Dairy,"Din, Dutta and Mane",841.15,581.57
+364,Hic Product,Household,Jaggi PLC,861.59,632.6
+365,Ad Product,Beverages,Dube PLC,753.39,539.84
+366,Deleniti Product,Beverages,"Kuruvilla, Chaudhary and Dani",450.43,240.72
+367,Unde Product,Dairy,Dutt PLC,618.34,323.27
+368,Eaque Product,Snacks,Tank and Sons,177.16,96.05
+369,Amet Product,Snacks,"Sani, Chatterjee and Mandal",680.17,499.4
+370,Magnam Product,Fruits,"Dutt, Khatri and Yadav",195.67,140.44
+371,Esse Product,Dairy,Seshadri Group,700.07,415.49
+372,Aliquid Product,Fruits,Rastogi-Walia,245.01,185.01
+373,Culpa Product,Dairy,Chana-Randhawa,135.2,111.95
+374,Dolore Product,Household,Divan-Mannan,181.98,94.02
+375,Dolor Product,Beverages,Dixit Group,21.95,15.35
+376,Ducimus Product,Household,Dalal and Sons,724.36,561.9
+377,Nihil Product,Dairy,"Hans, Varty and Bail",737.75,443.33
+378,Dignissimos Product,Beverages,Cherian Group,524.63,326.9
+379,Quod Product,Snacks,"Gandhi, Sarkar and Soni",178.14,132.8
+380,Ipsum Product,Snacks,Wason Group,101.88,87.53
+381,Explicabo Product,Fruits,Suresh PLC,38.75,31.93
+382,Rem Product,Dairy,Walia-Kamdar,182.43,133.77
+383,Quod Product,Dairy,"Chauhan, Barman and Ahluwalia",893.04,707.37
+384,Quis Product,Snacks,Lad-Toor,256.71,165.82
+385,Aperiam Product,Household,Dada Group,367.19,277.74
+386,Asperiores Product,Beverages,Subramaniam Ltd,123.24,84.6
+387,Quae Product,Household,"Gade, Maharaj and Thakur",237.91,137.03
+388,Assumenda Product,Household,Mandal-Divan,528.84,412.86
+389,Molestiae Product,Snacks,"Bedi, Konda and Gopal",615.6,444.82
+390,Eaque Product,Snacks,Sehgal and Sons,260.45,167.59
+391,Error Product,Snacks,Rau LLC,76.58,66.21
+392,Natus Product,Fruits,Kaul-Lata,403.21,204.98
+393,Omnis Product,Household,Loyal-Cherian,249.52,156.28
+394,Nostrum Product,Dairy,Ratta-Deep,235.16,122.93
+395,Et Product,Beverages,"Ratta, Keer and Joshi",960.67,774.89
+396,Aspernatur Product,Fruits,Lanka-Dugar,623.97,487.22
+397,Excepturi Product,Dairy,Handa-Sami,565.74,357.85
+398,Praesentium Product,Household,Vig Ltd,427.46,329.26
+399,Esse Product,Snacks,Deshpande-Mandal,440.37,289.93
+400,Ad Product,Household,Sanghvi-De,550.09,441.45
+401,Cupiditate Product,Beverages,Sandhu Group,702.5,478.88
+402,Voluptate Product,Fruits,"Divan, Chaudhari and Kakar",708.1,470.82
+403,Nostrum Product,Fruits,Ramachandran-Bath,188.26,164.52
+404,Laboriosam Product,Beverages,"Savant, Varma and Mander",510.11,306.25
+405,Eius Product,Dairy,Viswanathan PLC,423.72,232.27
+406,Facere Product,Dairy,Behl-Balakrishnan,873.12,640.71
+407,Hic Product,Fruits,"Khalsa, Varughese and Gokhale",638.79,567.07
+408,Aut Product,Fruits,Taneja Inc,541.85,352.82
+409,Delectus Product,Snacks,"Andra, Sarma and Gara",133.09,69.85
+410,Quam Product,Dairy,Basak-Manda,613.53,390.03
+411,Nisi Product,Beverages,Kalla-Mandal,134.86,94.72
+412,Fugiat Product,Dairy,"Bhakta, Varghese and Banik",350.46,197.93
+413,Assumenda Product,Snacks,Sandhu-Loyal,159.99,122.11
+414,Tempore Product,Fruits,Bal-Biswas,698.23,627.78
+415,Quaerat Product,Fruits,Choudhury-Mallick,222.13,151.2
+416,Nam Product,Snacks,"Sheth, Krishna and Ram",404.02,259.34
+417,Nemo Product,Beverages,Choudhry-Saraf,897.76,592.77
+418,Deleniti Product,Fruits,"Edwin, Saraf and Saxena",220.23,120.26
+419,Nostrum Product,Household,Chandran-Roy,517.65,441.72
+420,Deleniti Product,Fruits,"Varughese, Sunder and Swamy",430.89,286.94
+421,Laboriosam Product,Household,Ganesh PLC,37.76,24.73
+422,Veritatis Product,Snacks,Dyal-Butala,796.9,608.73
+423,Repellendus Product,Snacks,Sehgal-Tiwari,87.66,59.33
+424,Optio Product,Fruits,"Sami, Chatterjee and Sethi",484.77,368.08
+425,Veniam Product,Dairy,Goswami PLC,569.46,298.73
+426,Ipsum Product,Household,Dhawan and Sons,635.86,524.9
+427,Perferendis Product,Beverages,"Dhingra, Keer and Sachar",694.86,608.84
+428,Similique Product,Fruits,"Dada, Cheema and Chakrabarti",268.21,203.71
+429,Quidem Product,Beverages,Basu PLC,29.78,26.26
+430,Magnam Product,Fruits,"Dalal, Som and Keer",728.97,408.64
+431,Aut Product,Dairy,Kulkarni PLC,544.94,376.54
+432,Mollitia Product,Dairy,"Choudhury, Dixit and Saran",839.4,621.76
+433,Ipsum Product,Dairy,Bava PLC,824.96,604.44
+434,Temporibus Product,Dairy,Agarwal-Dube,846.46,559.16
+435,Nisi Product,Snacks,"Ramaswamy, Dalal and Vala",495.39,314.69
+436,Quibusdam Product,Snacks,Hegde-Wali,346.96,191.08
+437,Pariatur Product,Household,Sehgal Group,795.73,522.55
+438,Id Product,Beverages,Biswas-Edwin,462.27,261.21
+439,Natus Product,Fruits,Iyengar-Loke,199.77,158.57
+440,Culpa Product,Fruits,"Vig, Dhillon and Dhaliwal",857.87,500.59
+441,Id Product,Snacks,Maharaj-Sehgal,884.91,463.19
+442,In Product,Fruits,Garde-Dutta,476.98,343.88
+443,Neque Product,Snacks,Kadakia-Garde,94.19,69.52
+444,Tenetur Product,Household,Dhillon-Kuruvilla,400.07,339.57
+445,Aperiam Product,Beverages,Bobal PLC,807.47,590.09
+446,Atque Product,Household,Ravi LLC,903.74,576.76
+447,Laboriosam Product,Dairy,Jayaraman PLC,219.4,180.17
+448,Doloribus Product,Dairy,Ghosh Group,85.63,61.32
+449,Maxime Product,Dairy,Atwal-Kade,879.8,467.8
+450,Excepturi Product,Household,Mane-Sangha,401.62,291.71
+451,Cupiditate Product,Fruits,"Lad, Trivedi and Batra",550.93,475.57
+452,Iusto Product,Beverages,Hayre and Sons,968.7,637.91
+453,Expedita Product,Dairy,Kulkarni-Chhabra,85.23,52.72
+454,Itaque Product,Dairy,"Gade, Sarin and Choudhry",655.35,365.28
+455,Dolor Product,Dairy,Tailor PLC,92.62,51.92
+456,Libero Product,Beverages,Suresh LLC,387.96,261.14
+457,Iusto Product,Dairy,Kuruvilla Group,807.74,596.33
+458,Saepe Product,Beverages,Gola and Sons,444.8,236.74
+459,Labore Product,Dairy,"Handa, Boase and Dada",997.24,873.41
+460,Quae Product,Household,Bahl Inc,567.88,455.47
+461,Minima Product,Household,Loyal Inc,334.74,245.92
+462,Unde Product,Beverages,Sridhar-Maharaj,235.71,195.96
+463,Sed Product,Household,Din-Zacharia,363.51,193.41
+464,Quae Product,Beverages,Char-Brar,385.08,265.99
+465,Consequatur Product,Household,"Khosla, Trivedi and Mall",87.34,65.68
+466,Magni Product,Household,"Grewal, Kar and Babu",382.18,317.77
+467,Veniam Product,Beverages,Talwar-Taneja,474.95,386.32
+468,Mollitia Product,Fruits,"Sama, Sule and Malhotra",728.28,444.85
+469,Quidem Product,Household,Sunder Ltd,663.59,581.54
+470,Neque Product,Dairy,Vohra-Sharaf,714.59,392.84
+471,Rem Product,Fruits,Wason-Grover,28.2,23.97
+472,Officiis Product,Beverages,Seth-Sharaf,233.31,207.27
+473,Vitae Product,Fruits,"Rattan, Keer and Sachdev",668.45,381.59
+474,Natus Product,Snacks,"Kamdar, Bala and Bahl",494.31,389.92
+475,Ex Product,Snacks,Sastry Group,25.21,13.01
+476,Rerum Product,Household,Wason-Kumer,808.4,535.3
+477,Quas Product,Household,"Sem, Bansal and Gole",777.35,549.21
+478,Velit Product,Dairy,"Bedi, Bhatti and Zachariah",557.45,408.2
+479,Provident Product,Fruits,Bail PLC,85.13,74.44
+480,Nam Product,Snacks,"Chakrabarti, Sur and Chawla",771.18,592.96
+481,Consequuntur Product,Household,Chana-Gandhi,592.04,409.99
+482,Similique Product,Fruits,Deol Group,786.32,647.83
+483,Tempora Product,Household,Manda-Buch,756.71,666.07
+484,Eum Product,Household,"Sangha, Mall and Ramanathan",806.94,410.59
+485,Omnis Product,Snacks,Srivastava-Suri,527.65,471.2
+486,Rem Product,Snacks,"Dutt, Wali and Rama",157.52,84.19
+487,Nobis Product,Household,Behl Group,677.73,559.64
+488,Enim Product,Beverages,"Sachdeva, Chokshi and Tank",628.06,384.46
+489,Labore Product,Household,"Majumdar, Anand and Grewal",747.41,413.22
+490,Atque Product,Household,"Bains, Khurana and Vohra",186.48,126.05
+491,Sit Product,Dairy,Krish Inc,211.08,159.91
+492,Eaque Product,Dairy,Korpal-Chandran,892.6,582.32
+493,Dolor Product,Dairy,Talwar-Dyal,754.98,393.97
+494,Reiciendis Product,Beverages,"Chaudhry, Walla and Gokhale",910.06,673.25
+495,Ea Product,Beverages,Gera-Bhavsar,763.54,657.38
+496,Totam Product,Household,Deshmukh-Chawla,605.21,395.38
+497,Doloremque Product,Dairy,Bedi-Swamy,661.05,387.73
+498,Aut Product,Beverages,Zachariah-Kamdar,891.35,603.47
+499,Eveniet Product,Snacks,Loke-Sha,587.23,304.98
+500,Voluptatibus Product,Household,Kumar-Seth,639.74,529.83
+501,Omnis Product,Fruits,Rout Ltd,173.35,143.97
+502,Officiis Product,Household,Edwin-Bakshi,484.44,356.16
+503,Quos Product,Fruits,Basak Ltd,722.07,463.02
+504,Nisi Product,Dairy,"Lad, Jani and Batta",285.52,234.1
+505,Odio Product,Fruits,Magar-Dewan,218.21,157.52
+506,Laboriosam Product,Dairy,Seshadri-Dass,327.55,271.99
+507,Ut Product,Snacks,Chandran-Bobal,256.67,193.17
+508,Ipsa Product,Fruits,Tandon-Khare,230.61,187.66
+509,Cumque Product,Household,Boase and Sons,436.35,322.65
+510,Excepturi Product,Dairy,Divan PLC,909.68,605.53
+511,Voluptas Product,Household,Chaudhari-Raman,516.92,456.53
+512,Accusamus Product,Beverages,"Srivastava, Badal and Iyer",204.16,146.27
+513,Amet Product,Dairy,Behl PLC,95.43,70.81
+514,Tempora Product,Fruits,Dave-Amble,702.23,413.05
+515,Tempore Product,Dairy,"Lanka, Sami and Bajwa",395.14,296.46
+516,Quos Product,Household,Chopra LLC,825.39,601.41
+517,Culpa Product,Snacks,Kashyap LLC,666.32,382.42
+518,Doloribus Product,Dairy,Khatri-Balakrishnan,800.32,419.24
+519,Porro Product,Fruits,"Bhardwaj, Krishnamurthy and Sathe",286.51,212.52
+520,Consequatur Product,Beverages,Gara PLC,698.51,562.63
+521,Dicta Product,Snacks,Shetty LLC,278.78,197.76
+522,Repudiandae Product,Beverages,Kade-Ram,940.29,555.44
+523,Architecto Product,Dairy,"Batta, Singh and Raja",643.65,493.43
+524,Magni Product,Household,Buch-Kumer,338.02,179.84
+525,Nostrum Product,Household,"Talwar, Brar and Venkataraman",284.12,192.27
+526,Sed Product,Fruits,Tank-Bhavsar,207.11,117.09
+527,Iure Product,Household,Kapadia-Kapoor,700.75,402.08
+528,Debitis Product,Snacks,Kari-Golla,234.34,136.13
+529,Aliquid Product,Household,"Kala, Jhaveri and Chanda",603.4,395.04
+530,Alias Product,Fruits,"Sachar, Sodhi and Amble",279.34,145.39
+531,Cupiditate Product,Dairy,"Hayre, Keer and Sant",668.73,440.77
+532,Placeat Product,Dairy,Bahri PLC,818.64,576.88
+533,Iusto Product,Household,Bhatti-Reddy,782.46,542.49
+534,Unde Product,Beverages,"Wali, Arya and Sengupta",765.63,500.04
+535,Labore Product,Dairy,Bumb Inc,203.97,170.45
+536,Numquam Product,Household,"Baral, Keer and Kulkarni",106.62,59.51
+537,Vitae Product,Fruits,Ravel Ltd,704.97,495.09
+538,Illo Product,Household,Gala Inc,380.98,199.94
+539,Consectetur Product,Dairy,Dar LLC,443.7,234.48
+540,Culpa Product,Fruits,"Arya, Vig and Kapur",50.53,36.86
+541,Voluptatibus Product,Household,Lala-Sandal,274.38,199.31
+542,Magnam Product,Snacks,"Varghese, Mani and Bal",53.0,45.11
+543,Eveniet Product,Fruits,Goyal-Varkey,881.6,637.53
+544,Molestiae Product,Snacks,Sur Group,258.53,228.52
+545,Cum Product,Beverages,Contractor Group,566.19,294.12
+546,Eum Product,Fruits,"Dass, Devan and Ramanathan",58.2,31.38
+547,Libero Product,Snacks,Luthra Inc,673.51,348.63
+548,Iste Product,Dairy,"Khare, Ratta and Gaba",336.57,193.23
+549,Dolorem Product,Dairy,"Yadav, Shan and Bhat",899.96,644.83
+550,Recusandae Product,Beverages,"Vaidya, Maharaj and Wadhwa",890.36,675.1
+551,Harum Product,Fruits,Bobal LLC,338.78,175.57
+552,Recusandae Product,Fruits,Ramesh Ltd,902.94,793.13
+553,Eius Product,Fruits,"Madan, Subramaniam and Barman",996.23,833.71
+554,Magnam Product,Beverages,"Sathe, Sarraf and Sarkar",828.91,512.8
+555,Reiciendis Product,Fruits,Zachariah Inc,847.97,450.17
+556,Adipisci Product,Dairy,Wali Inc,264.03,149.96
+557,Alias Product,Snacks,Basu Group,585.17,322.3
+558,Molestiae Product,Dairy,Keer PLC,85.91,47.19
+559,Veritatis Product,Dairy,Lanka Ltd,113.02,79.95
+560,Expedita Product,Snacks,Saha PLC,998.91,597.69
+561,Similique Product,Dairy,"Khurana, Raja and Gopal",340.11,218.78
+562,Dignissimos Product,Beverages,Sahni LLC,753.22,674.74
+563,Magni Product,Snacks,Venkataraman-Dhar,810.53,627.13
+564,Doloribus Product,Dairy,"Dass, Amble and Gupta",860.86,757.21
+565,A Product,Household,"Lad, Khosla and Kumer",997.68,555.73
+566,Hic Product,Dairy,"Dhawan, Ahuja and Vaidya",256.67,167.57
+567,Earum Product,Beverages,"Desai, Tank and Kala",59.54,42.98
+568,Molestiae Product,Fruits,"Thaker, Dutta and Bala",422.97,224.47
+569,Suscipit Product,Dairy,"Saran, Mannan and Bhandari",147.48,73.99
+570,Voluptas Product,Fruits,"Master, Dani and Bir",41.98,32.25
+571,Iusto Product,Household,Krish-Sangha,373.22,282.43
+572,Nemo Product,Dairy,Sood-Shukla,788.06,523.52
+573,Accusamus Product,Snacks,Balay PLC,574.86,400.02
+574,Explicabo Product,Fruits,Sharaf and Sons,326.52,217.52
+575,Consequatur Product,Household,"Edwin, Varma and Wason",661.26,336.98
+576,Culpa Product,Snacks,"Gaba, Karan and Sridhar",247.38,156.88
+577,In Product,Snacks,"Vohra, Vyas and Iyengar",34.09,19.46
+578,Cupiditate Product,Snacks,"Dhillon, Ahluwalia and Arya",769.07,414.81
+579,Totam Product,Snacks,Sarkar-Sha,631.27,557.21
+580,Nulla Product,Dairy,Shankar LLC,767.06,567.43
+581,Provident Product,Dairy,Chander-Khanna,58.16,46.03
+582,Quasi Product,Dairy,Mahal-Atwal,840.38,526.2
+583,Fuga Product,Household,"Samra, Butala and Kapadia",627.14,412.19
+584,Omnis Product,Household,Chanda Ltd,572.13,340.29
+585,Itaque Product,Household,Bobal LLC,632.12,340.58
+586,Eum Product,Beverages,"Krishnan, Sama and Majumdar",867.14,495.67
+587,Explicabo Product,Household,Seth-Dar,595.2,487.47
+588,Corporis Product,Dairy,Hayre-Kohli,589.33,454.38
+589,Impedit Product,Dairy,Barad PLC,990.87,712.21
+590,Deserunt Product,Beverages,Borde Group,761.6,525.53
+591,Nulla Product,Beverages,Tata-Bala,453.45,394.04
+592,Asperiores Product,Household,Divan Ltd,713.25,377.38
+593,Quaerat Product,Fruits,Butala-Khalsa,401.45,245.78
+594,Ad Product,Beverages,"Rout, Sant and Kota",244.3,156.35
+595,Labore Product,Snacks,"Dyal, Vasa and Kapur",604.91,491.77
+596,Perspiciatis Product,Dairy,"Biswas, Ramaswamy and Kapur",929.62,833.87
+597,Veritatis Product,Snacks,Chahal and Sons,930.56,554.86
+598,Quo Product,Dairy,"Saxena, Shetty and Deshpande",355.07,301.71
+599,Nulla Product,Dairy,Chacko-Date,537.12,447.02
+600,Incidunt Product,Beverages,Bhatti PLC,227.4,134.13
+601,Ducimus Product,Beverages,Badal Inc,995.72,656.91
+602,Laborum Product,Snacks,Sharaf-Kadakia,981.5,651.59
+603,Dicta Product,Dairy,Chad-Dugal,656.52,585.15
+604,Quae Product,Snacks,"Choudhary, Kalla and Batta",808.33,462.65
+605,Facilis Product,Fruits,Choudhary Ltd,720.8,590.81
+606,Cum Product,Snacks,Raja Inc,601.3,381.03
+607,Assumenda Product,Household,Jain PLC,72.28,57.27
+608,Non Product,Snacks,Buch Ltd,465.67,311.07
+609,Cumque Product,Household,Vyas and Sons,681.29,498.26
+610,Iste Product,Household,"Kumer, Bhatnagar and Raman",683.98,569.79
+611,Eligendi Product,Household,Khare-Bath,385.66,316.88
+612,Voluptates Product,Fruits,"Chawla, Rao and Gopal",942.86,798.2
+613,Doloremque Product,Snacks,Gade and Sons,184.01,96.39
+614,Necessitatibus Product,Snacks,"Iyer, Bora and Bhandari",510.35,396.45
+615,Aut Product,Fruits,"Magar, Khosla and Shetty",697.07,387.57
+616,Ducimus Product,Dairy,"Baral, Bhatia and Kothari",703.19,468.55
+617,Eos Product,Beverages,Master-Kamdar,655.67,471.71
+618,Explicabo Product,Snacks,"Shan, Rastogi and Bhardwaj",289.78,191.57
+619,Doloribus Product,Beverages,Choudhury LLC,173.08,122.51
+620,Vel Product,Fruits,"Som, Kohli and Sen",643.22,578.0
+621,Voluptatum Product,Dairy,"Soman, Ghose and Anand",607.32,336.51
+622,Itaque Product,Dairy,Malhotra-Gaba,195.77,150.78
+623,Molestiae Product,Dairy,Raja Group,711.04,468.15
+624,Voluptates Product,Fruits,Singhal-Taneja,466.07,257.83
+625,Sint Product,Household,Goswami-Thakkar,674.41,380.03
+626,Iste Product,Household,Choudhary-Khare,840.62,739.5
+627,Praesentium Product,Beverages,Arora-Brahmbhatt,186.33,158.72
+628,Sequi Product,Household,Bhakta-Arora,38.76,33.44
+629,Ipsum Product,Household,Bajaj and Sons,783.52,702.51
+630,Cumque Product,Dairy,Andra-Mangat,617.5,360.2
+631,Nisi Product,Dairy,Khurana Ltd,705.65,453.15
+632,Quam Product,Beverages,"Chatterjee, Mammen and Karpe",841.39,645.92
+633,Dicta Product,Snacks,Mahajan LLC,806.75,559.5
+634,Deleniti Product,Beverages,Dani Group,961.7,641.8
+635,Quas Product,Beverages,Dass Ltd,545.22,350.64
+636,Illo Product,Fruits,"Gera, Srinivasan and Sastry",498.73,367.82
+637,Occaecati Product,Fruits,Kata-Doctor,413.85,302.21
+638,Ducimus Product,Beverages,Sridhar-Sankaran,170.62,96.33
+639,Aspernatur Product,Beverages,Handa Group,581.16,400.24
+640,Quasi Product,Beverages,"Chahal, Acharya and Jain",291.47,210.26
+641,Vitae Product,Household,Sachdev Inc,922.88,671.96
+642,Corrupti Product,Fruits,"Tara, Raj and Bala",591.53,345.48
+643,Eum Product,Beverages,Gade-Suresh,600.98,478.93
+644,Quia Product,Dairy,"Chaudhry, Dani and Kohli",367.83,187.62
+645,Magni Product,Dairy,"Arora, Dar and Khosla",70.95,45.55
+646,Blanditiis Product,Household,"Chana, Hari and Krishna",51.11,41.51
+647,Assumenda Product,Household,Bhagat Ltd,434.87,315.52
+648,Quibusdam Product,Snacks,Deshmukh-Deshmukh,102.87,62.18
+649,Molestiae Product,Snacks,Ahuja Inc,614.71,478.23
+650,Laudantium Product,Snacks,"Ramachandran, Mangat and Desai",883.35,642.16
+651,Est Product,Household,Korpal PLC,885.26,724.58
+652,Vel Product,Household,"Ratti, Chakraborty and Ben",665.86,528.7
+653,Et Product,Household,Kunda-Agarwal,227.01,168.91
+654,Ea Product,Dairy,Balakrishnan-Chaudhuri,865.74,601.92
+655,Nostrum Product,Household,Johal-Khalsa,888.37,491.51
+656,Iste Product,Dairy,"Bera, Mammen and Chowdhury",212.72,128.6
+657,Repellat Product,Snacks,"Dhawan, Apte and Sarma",742.68,495.84
+658,Ipsam Product,Snacks,"Choudhry, Kota and Yohannan",300.79,222.5
+659,Totam Product,Snacks,"Sura, Wason and Borah",806.59,569.04
+660,Quibusdam Product,Beverages,Bora Ltd,997.29,613.61
+661,Sapiente Product,Beverages,"Zacharia, Rajagopalan and Dasgupta",49.43,24.84
+662,Officiis Product,Fruits,"Barad, Buch and Zachariah",899.42,628.24
+663,Eaque Product,Fruits,Shah LLC,630.18,387.09
+664,Id Product,Fruits,Taneja-Sathe,973.91,773.13
+665,Nihil Product,Beverages,"Desai, Thaman and Hayer",475.71,242.41
+666,Deleniti Product,Beverages,"Bhargava, Gulati and Chaudhari",850.44,624.16
+667,Excepturi Product,Fruits,"Dhillon, Suresh and Warrior",81.15,71.14
+668,Mollitia Product,Fruits,Buch-Malhotra,348.57,198.6
+669,Dolore Product,Household,Ray-Chaudhary,85.68,59.0
+670,Quidem Product,Fruits,"Tandon, Bava and Ganesh",975.84,523.61
+671,Nihil Product,Household,Gupta-Krishnamurthy,820.63,615.7
+672,Perspiciatis Product,Dairy,Bir and Sons,855.5,616.14
+673,Quam Product,Beverages,Chaudhari LLC,939.21,622.65
+674,Iusto Product,Fruits,Subramanian PLC,103.4,73.26
+675,Mollitia Product,Beverages,Walia-Shanker,397.89,341.64
+676,Praesentium Product,Beverages,Varma-Ramachandran,89.61,51.84
+677,Tenetur Product,Beverages,"Baral, Rajan and Salvi",226.58,115.34
+678,Fuga Product,Dairy,Lata-Mangal,244.78,206.76
+679,Nostrum Product,Snacks,"Mann, Srivastava and Ahluwalia",479.73,350.61
+680,Adipisci Product,Fruits,Barman and Sons,283.19,242.49
+681,Sit Product,Snacks,Chakrabarti-Majumdar,118.96,87.89
+682,Dignissimos Product,Snacks,Sura Inc,184.14,151.74
+683,Culpa Product,Snacks,Varma Ltd,164.33,110.41
+684,Error Product,Beverages,"Yadav, Dyal and Saraf",973.62,778.84
+685,Culpa Product,Household,"Bail, Kamdar and Salvi",764.11,661.12
+686,Quisquam Product,Beverages,Sachdev Group,968.41,705.82
+687,Itaque Product,Beverages,Dara Group,450.95,258.09
+688,Incidunt Product,Snacks,Sharma and Sons,292.8,177.88
+689,Ea Product,Beverages,Lad Group,802.33,464.92
+690,Tempora Product,Snacks,Uppal and Sons,339.73,203.41
+691,Sunt Product,Household,Shroff and Sons,313.4,195.11
+692,Sit Product,Fruits,Walla LLC,247.86,178.97
+693,Ipsum Product,Snacks,"Suresh, Goda and Seth",147.09,108.14
+694,Facere Product,Household,Bajaj-Kulkarni,271.33,181.95
+695,Eligendi Product,Fruits,Sarraf-Kar,368.21,274.75
+696,Ad Product,Dairy,Dhillon-Rana,680.51,362.46
+697,Et Product,Snacks,Sachdeva-Thakkar,81.31,43.51
+698,Voluptatem Product,Snacks,"Balakrishnan, Sami and Bhandari",226.3,128.7
+699,Consequuntur Product,Dairy,"Wadhwa, Bal and Ranganathan",812.84,574.87
+700,Cum Product,Dairy,Loyal-Bhatnagar,163.98,96.03
+701,Tempora Product,Snacks,Mammen-Mann,355.79,218.21
+702,Dicta Product,Dairy,"Seshadri, Kara and Datta",867.37,572.57
+703,Incidunt Product,Beverages,Chatterjee-Wali,171.83,141.72
+704,Aspernatur Product,Fruits,"Dhar, Wason and Chawla",101.08,51.1
+705,Aperiam Product,Fruits,Gopal Group,494.85,375.96
+706,Aperiam Product,Fruits,Shan-Mannan,316.37,242.83
+707,Unde Product,Beverages,"Sachdeva, Ramakrishnan and Kanda",572.14,468.85
+708,Ipsa Product,Dairy,Srivastava-Dada,807.73,705.23
+709,Esse Product,Household,Chada-Rajagopal,154.41,78.45
+710,Eaque Product,Dairy,"Aggarwal, Mann and Apte",589.09,330.78
+711,Sit Product,Snacks,"Lal, Sem and Jayaraman",515.4,440.39
+712,Expedita Product,Fruits,Chander and Sons,161.2,110.17
+713,Alias Product,Dairy,"Kalita, Kapadia and Mander",631.52,458.38
+714,Ea Product,Household,Aggarwal-Borra,288.17,220.51
+715,Totam Product,Snacks,"Ranganathan, Dasgupta and Anand",498.08,384.33
+716,Harum Product,Beverages,"Char, Sagar and Dewan",100.63,87.82
+717,Eaque Product,Beverages,Agrawal-Lall,470.39,422.78
+718,Voluptate Product,Household,Gopal-Tiwari,320.33,252.44
+719,Facere Product,Snacks,"Dugal, Savant and Raju",825.93,507.85
+720,Necessitatibus Product,Fruits,Kalita-Sehgal,75.84,64.61
+721,Laudantium Product,Dairy,Mane Group,430.24,223.59
+722,Ab Product,Snacks,Dash and Sons,469.26,278.0
+723,Expedita Product,Beverages,Sharma-Acharya,730.51,627.47
+724,In Product,Household,Wason-Kanda,582.8,351.12
+725,Voluptas Product,Household,Balasubramanian-Barad,673.87,396.41
+726,Quasi Product,Dairy,Ratta PLC,781.51,433.93
+727,Error Product,Household,Ranganathan LLC,864.96,729.72
+728,Illo Product,Household,"Khare, Chandran and Vasa",327.6,229.33
+729,Eveniet Product,Snacks,Gandhi-Ramesh,547.26,421.37
+730,Autem Product,Fruits,Gara Ltd,843.31,502.3
+731,Distinctio Product,Dairy,"Chanda, Chawla and Bala",989.66,794.91
+732,Voluptatum Product,Snacks,Brar-Savant,891.73,716.95
+733,Magni Product,Fruits,Sawhney PLC,384.04,240.04
+734,Illum Product,Snacks,Dhillon-Batta,211.26,140.33
+735,Doloribus Product,Snacks,Kalita Inc,499.6,291.7
+736,Eius Product,Household,Bobal-Viswanathan,746.81,665.13
+737,Eaque Product,Fruits,"Bir, Bath and Bava",502.72,381.18
+738,Magnam Product,Dairy,Rout-Mangal,493.52,431.25
+739,Perspiciatis Product,Dairy,"Kannan, Bora and Lanka",841.47,522.85
+740,Pariatur Product,Fruits,"Ratti, Mammen and Rao",374.18,304.12
+741,Deleniti Product,Household,Chaudhary Inc,862.6,695.55
+742,Fuga Product,Beverages,Date-Shankar,418.67,325.17
+743,Dolorum Product,Snacks,Kapur and Sons,341.67,302.81
+744,Temporibus Product,Household,Viswanathan-Handa,464.91,305.64
+745,Tenetur Product,Fruits,Brar-Kota,767.2,423.71
+746,Ipsum Product,Snacks,Khurana-Sehgal,143.48,110.29
+747,Consectetur Product,Dairy,"Manne, Dyal and Baral",212.49,168.23
+748,Corrupti Product,Beverages,Dara Ltd,952.42,695.29
+749,Accusamus Product,Dairy,"Basak, Batra and Sarraf",191.98,111.87
+750,Impedit Product,Fruits,Swaminathan-Sharma,576.37,404.49
+751,Dolore Product,Snacks,Seshadri-Sehgal,587.73,367.26
+752,Fugiat Product,Fruits,"Venkataraman, Salvi and Sampath",499.83,335.38
+753,Repellendus Product,Snacks,"Sidhu, Gopal and Tailor",651.85,494.16
+754,Molestiae Product,Household,Deol-Ganguly,245.23,195.71
+755,Dicta Product,Beverages,Sampath and Sons,561.61,332.97
+756,Dignissimos Product,Household,Bhakta Inc,384.73,254.74
+757,Maxime Product,Household,Aurora-Ramakrishnan,668.43,406.18
+758,Animi Product,Fruits,Bal Group,158.4,91.79
+759,Vitae Product,Beverages,Kapur and Sons,579.46,471.31
+760,Amet Product,Snacks,Singhal PLC,201.56,174.09
+761,Officia Product,Snacks,Bawa-Uppal,293.07,189.94
+762,Ad Product,Dairy,"Boase, Sabharwal and Vig",234.34,187.59
+763,Vero Product,Snacks,Bumb-Sagar,199.18,171.06
+764,Minima Product,Fruits,Bhardwaj Group,829.2,695.24
+765,Quae Product,Household,"Johal, Dua and Singhal",299.99,171.93
+766,Beatae Product,Household,Bal-Guha,928.58,819.49
+767,Quasi Product,Household,Kota-Kari,970.53,631.5
+768,Non Product,Beverages,Babu-Saraf,579.84,368.6
+769,Fugit Product,Snacks,Sen-Bedi,160.14,84.07
+770,Eaque Product,Fruits,"Wali, Sampath and Ratti",387.06,268.8
+771,Quibusdam Product,Beverages,Sami Group,801.78,435.85
+772,Eveniet Product,Dairy,Barman and Sons,380.04,227.8
+773,Consequuntur Product,Fruits,Ramachandran PLC,105.28,65.99
+774,Voluptatum Product,Fruits,Bumb-Gaba,565.65,465.83
+775,Similique Product,Fruits,Deshmukh-Jain,848.22,721.15
+776,Temporibus Product,Household,Dixit-Mammen,800.01,496.8
+777,Ipsam Product,Fruits,Doctor Group,191.62,161.63
+778,Nostrum Product,Snacks,Dar Group,679.31,572.59
+779,A Product,Fruits,Mahal-Mangat,236.09,190.26
+780,Vitae Product,Household,Sheth LLC,233.84,130.64
+781,Excepturi Product,Fruits,Char Inc,876.59,680.35
+782,Eius Product,Dairy,Rau and Sons,264.68,232.39
+783,Animi Product,Dairy,"Kumer, Mander and Rajagopal",277.98,214.88
+784,Minima Product,Household,"Sem, Deo and Gala",20.64,13.06
+785,Temporibus Product,Snacks,Kaur Ltd,873.26,611.48
+786,Voluptatibus Product,Snacks,Guha-Dar,796.74,604.16
+787,Ratione Product,Beverages,"Mangal, Karpe and Dave",634.78,447.03
+788,Fugit Product,Household,Kota-Brar,755.26,413.87
+789,Perferendis Product,Fruits,"Sethi, Mani and Shroff",169.01,105.6
+790,Quaerat Product,Household,Kothari Ltd,469.16,385.16
+791,Maxime Product,Beverages,Rajan-Dash,364.19,307.58
+792,Libero Product,Household,"Roy, Soni and Savant",111.9,62.1
+793,Suscipit Product,Household,Chhabra Group,496.41,437.31
+794,Ducimus Product,Beverages,"Srinivas, Kunda and Tara",922.32,582.47
+795,Amet Product,Snacks,"Bhandari, Shankar and Saha",59.26,45.33
+796,Ratione Product,Fruits,Sharaf Ltd,305.63,244.73
+797,Dolor Product,Beverages,Jha-Rajagopal,223.39,184.25
+798,Eaque Product,Dairy,Talwar-Venkataraman,253.38,222.54
+799,Explicabo Product,Snacks,Bava Inc,910.27,569.07
+800,Officia Product,Dairy,Sunder LLC,478.71,403.75
+801,Blanditiis Product,Snacks,Joshi-Kala,476.97,263.61
+802,Ipsam Product,Fruits,"Khare, Gokhale and Gill",765.36,598.52
+803,Nemo Product,Fruits,Gill Ltd,171.4,136.57
+804,Quos Product,Household,"Mani, Walla and Zacharia",497.52,383.63
+805,Dolore Product,Dairy,Chopra LLC,441.39,265.24
+806,Eos Product,Snacks,Chadha-Bhat,604.97,513.75
+807,Ipsum Product,Fruits,"Kapoor, Sangha and Basu",999.57,567.3
+808,Asperiores Product,Beverages,Tank Inc,774.06,403.64
+809,Quos Product,Fruits,Sathe-Singhal,409.91,322.59
+810,Repellat Product,Beverages,Mani-Kota,831.0,573.55
+811,Alias Product,Snacks,Bora-Bali,187.29,157.26
+812,Vitae Product,Fruits,Buch Inc,49.85,32.57
+813,Dignissimos Product,Fruits,"Goyal, Kakar and Mahajan",220.36,125.01
+814,Dolor Product,Snacks,Ganguly PLC,353.6,295.11
+815,Quam Product,Fruits,"Bose, Deshpande and Dani",520.37,374.44
+816,Laudantium Product,Beverages,"Arya, Gill and Ganesh",622.83,358.55
+817,Expedita Product,Fruits,Bose-Dhingra,912.39,719.1
+818,Repudiandae Product,Dairy,Varghese Group,519.66,366.07
+819,Non Product,Household,Chopra-Vohra,511.25,379.21
+820,Excepturi Product,Beverages,Banerjee-Andra,69.24,47.39
+821,Dolores Product,Dairy,Tiwari-Sachar,54.21,45.07
+822,Placeat Product,Snacks,Tella-Kulkarni,560.14,465.94
+823,A Product,Beverages,"Boase, Ben and Majumdar",449.42,352.24
+824,Ratione Product,Household,Chopra PLC,842.4,456.72
+825,Facere Product,Household,"Raj, Chaudry and Bandi",177.47,148.28
+826,Suscipit Product,Snacks,"Samra, Garg and Lall",44.47,34.17
+827,Cupiditate Product,Snacks,"Gopal, Bobal and Kalita",460.06,358.3
+828,Excepturi Product,Beverages,Bawa PLC,252.73,163.06
+829,Praesentium Product,Fruits,Bir-Thaker,68.62,58.44
+830,Dicta Product,Snacks,Madan-Andra,730.11,576.9
+831,Asperiores Product,Fruits,Kara PLC,129.36,70.51
+832,Aliquam Product,Dairy,"Ratta, Rao and Datta",616.15,408.58
+833,Culpa Product,Household,Bahl and Sons,295.43,252.46
+834,Unde Product,Fruits,Bahl-Batta,190.03,98.6
+835,Officiis Product,Household,Anne PLC,392.16,346.89
+836,Odit Product,Fruits,Sur Ltd,805.42,621.51
+837,Et Product,Dairy,"Deshpande, Sachdeva and Grover",404.25,304.22
+838,Rerum Product,Snacks,"Goyal, Krish and Bhasin",755.75,459.67
+839,Laboriosam Product,Dairy,"Sharaf, Maharaj and Sehgal",142.98,85.72
+840,Nam Product,Snacks,Srinivas Group,777.32,681.57
+841,Quam Product,Snacks,"Soman, Mangal and Chauhan",252.19,156.18
+842,Voluptatem Product,Household,Bedi Group,683.85,554.06
+843,Error Product,Dairy,"Gupta, Kapoor and Raja",574.47,377.57
+844,Hic Product,Fruits,Aggarwal PLC,930.56,517.11
+845,Necessitatibus Product,Dairy,Subramaniam Group,399.58,201.5
+846,Ad Product,Household,"Dara, Ahuja and Som",84.84,60.89
+847,Quaerat Product,Snacks,Khatri-Golla,38.77,34.52
+848,Delectus Product,Household,Kade LLC,830.32,537.76
+849,Officiis Product,Beverages,Goyal LLC,534.24,343.45
+850,Autem Product,Beverages,De Inc,779.74,497.19
+851,Sint Product,Fruits,Handa-Wadhwa,249.74,176.87
+852,Quam Product,Household,Thaman-Bumb,358.18,242.22
+853,Est Product,Fruits,"Dube, Sarraf and Rajagopal",49.5,42.17
+854,Occaecati Product,Fruits,"Shenoy, Sidhu and Jayaraman",962.26,675.71
+855,Voluptates Product,Beverages,Banik-Mandal,674.51,474.25
+856,A Product,Fruits,Soni and Sons,934.54,519.0
+857,Autem Product,Beverages,Mangat and Sons,280.19,250.24
+858,Non Product,Snacks,"Shetty, Sawhney and Amble",619.23,371.53
+859,Unde Product,Household,"Tata, Jayaraman and Bobal",684.93,362.56
+860,Eos Product,Fruits,Ram Group,331.2,253.45
+861,Libero Product,Beverages,Sandal-Shanker,851.15,628.27
+862,Sint Product,Dairy,"Divan, Keer and Kothari",948.22,631.57
+863,Pariatur Product,Fruits,"Chaudhary, Walla and Ramachandran",887.16,593.4
+864,Vel Product,Snacks,Date and Sons,744.29,605.87
+865,Perferendis Product,Snacks,"Rajagopal, Mani and Kapur",291.92,168.81
+866,Tempora Product,Dairy,Dhillon PLC,295.98,245.1
+867,Voluptatum Product,Beverages,"Gokhale, Buch and Balan",964.09,732.23
+868,Tempora Product,Fruits,Ratti-Banik,30.08,20.08
+869,Nemo Product,Beverages,Sankar Inc,721.73,493.09
+870,Quibusdam Product,Snacks,Bath Inc,712.12,429.17
+871,Magnam Product,Beverages,Loyal-Acharya,630.24,504.73
+872,Dolor Product,Snacks,Krishna Group,990.31,698.32
+873,Illo Product,Beverages,Tella-Bir,325.64,204.61
+874,Incidunt Product,Dairy,Jain-Baria,353.17,260.79
+875,Dolor Product,Household,"Rout, Sangha and Khare",97.36,87.46
+876,Pariatur Product,Dairy,Choudhury Group,453.94,306.0
+877,Totam Product,Dairy,Ravel-Jani,275.83,239.5
+878,Illum Product,Household,Tata Group,356.52,227.46
+879,Blanditiis Product,Household,Mammen-Samra,837.88,437.28
+880,Magni Product,Fruits,Soni and Sons,936.77,544.92
+881,Possimus Product,Fruits,"Toor, Hans and Rau",202.02,134.84
+882,Deserunt Product,Dairy,"Hayer, Seshadri and Bera",385.06,226.36
+883,Provident Product,Dairy,"Virk, Goyal and Dora",930.06,465.11
+884,Numquam Product,Snacks,Dora-Sarna,80.57,69.77
+885,Unde Product,Snacks,"Reddy, Hegde and Dhar",110.51,92.56
+886,Soluta Product,Fruits,Sabharwal-Jhaveri,179.54,143.08
+887,Doloremque Product,Fruits,"Comar, Shankar and Sarin",603.31,342.15
+888,Veritatis Product,Snacks,Goswami-Sane,167.46,91.79
+889,Praesentium Product,Snacks,Dugar Inc,968.71,510.55
+890,Accusamus Product,Beverages,"Barad, Sachdeva and Aggarwal",457.78,361.47
+891,Aliquam Product,Beverages,"Aggarwal, Lanka and Dey",511.49,445.78
+892,Temporibus Product,Snacks,Behl and Sons,261.73,175.94
+893,Voluptatem Product,Beverages,Gara-Bandi,481.54,263.72
+894,Maiores Product,Household,"Gupta, Chandra and Basu",668.68,471.39
+895,Incidunt Product,Fruits,"Dalal, Krishna and Date",756.15,483.58
+896,Unde Product,Fruits,Behl-Chakrabarti,758.79,493.16
+897,Ad Product,Snacks,Gaba Ltd,586.33,438.89
+898,Ut Product,Dairy,Lad Inc,906.27,713.68
+899,Maxime Product,Snacks,Ranganathan LLC,821.06,446.85
+900,Nemo Product,Beverages,Bora LLC,761.91,391.8
+901,Laboriosam Product,Dairy,Wadhwa-Jani,74.49,66.87
+902,Eum Product,Beverages,Swaminathan and Sons,26.74,15.86
+903,Sunt Product,Household,"Guha, Wali and Grover",228.2,119.01
+904,Est Product,Beverages,Sastry Group,670.25,386.03
+905,Nam Product,Household,Gopal Group,422.97,218.08
+906,Modi Product,Household,"Butala, Bumb and Sibal",414.36,272.12
+907,Cum Product,Beverages,"Sama, Jhaveri and Yogi",886.9,728.11
+908,Id Product,Beverages,"Apte, Bhatnagar and Anne",897.65,571.35
+909,Hic Product,Household,Bedi Inc,910.99,617.35
+910,Sequi Product,Dairy,"Bakshi, Badal and Sarkar",327.6,252.33
+911,Reprehenderit Product,Household,Kalla Inc,697.23,490.54
+912,Reprehenderit Product,Fruits,Loke LLC,286.2,241.72
+913,Beatae Product,Household,Dhingra-Ganesh,206.8,175.04
+914,Adipisci Product,Dairy,Edwin and Sons,200.94,101.27
+915,Quis Product,Fruits,Sastry-Jayaraman,355.27,288.2
+916,Quis Product,Snacks,Kota-Bir,441.36,302.02
+917,Amet Product,Snacks,Bansal-Kannan,834.33,747.17
+918,Eveniet Product,Dairy,Sem and Sons,137.49,95.32
+919,Numquam Product,Household,"Tandon, Dhaliwal and Kari",740.23,662.33
+920,Doloribus Product,Beverages,"Edwin, Chanda and Batta",540.83,433.65
+921,Occaecati Product,Dairy,Shanker-Dayal,302.19,181.15
+922,Quisquam Product,Fruits,Dugar-Karpe,502.96,359.8
+923,Vero Product,Fruits,"Kadakia, Kara and Comar",313.94,281.56
+924,Repellat Product,Snacks,"Ganesan, Devi and Wadhwa",604.16,509.31
+925,Voluptate Product,Fruits,Venkatesh and Sons,445.17,239.92
+926,Voluptate Product,Dairy,Rama Ltd,181.12,141.74
+927,Est Product,Fruits,Varma-Chanda,134.25,85.68
+928,Earum Product,Dairy,Lall PLC,555.76,279.43
+929,Architecto Product,Beverages,Wadhwa and Sons,904.36,598.14
+930,Nesciunt Product,Snacks,Das Group,357.08,212.07
+931,Architecto Product,Fruits,Trivedi-Som,738.34,611.01
+932,Deserunt Product,Dairy,"Gaba, Divan and Bava",665.49,422.54
+933,Id Product,Household,Lal-Kapur,932.92,775.27
+934,Quasi Product,Snacks,"Lad, Iyer and Kale",824.56,412.48
+935,Animi Product,Beverages,Chad Inc,575.27,358.47
+936,Veritatis Product,Dairy,Kapur PLC,663.89,395.99
+937,Mollitia Product,Beverages,"Sama, Jani and Buch",900.42,534.33
+938,Praesentium Product,Beverages,Raju PLC,411.53,216.99
+939,Nihil Product,Fruits,"Vyas, Sabharwal and Reddy",340.26,195.6
+940,A Product,Fruits,"Madan, Sen and Mahal",30.59,22.09
+941,Officiis Product,Dairy,Walia and Sons,830.02,511.74
+942,Tempore Product,Household,"Borde, Wali and Butala",804.96,536.87
+943,Animi Product,Dairy,Devi and Sons,122.37,79.63
+944,Cupiditate Product,Household,"Aurora, Bhandari and Shroff",585.32,497.73
+945,Perferendis Product,Beverages,Singh LLC,474.7,409.25
+946,Voluptatibus Product,Snacks,Yogi-Mane,136.33,95.05
+947,Repudiandae Product,Dairy,Ratta Inc,980.96,620.03
+948,Quae Product,Dairy,Rama Ltd,230.4,125.04
+949,Nobis Product,Household,"Badami, Chander and Chakrabarti",85.89,75.7
+950,Deserunt Product,Beverages,Kapadia LLC,602.95,316.0
+951,Illum Product,Beverages,Apte PLC,744.09,460.64
+952,Maiores Product,Household,"Manda, Mander and Halder",51.79,32.07
+953,Quas Product,Beverages,Ram-Hayre,665.54,418.07
+954,Ipsum Product,Fruits,Dora LLC,541.65,306.42
+955,Facere Product,Snacks,"Kala, Borde and Amble",121.2,98.57
+956,Expedita Product,Dairy,Chaudhari Inc,189.07,103.8
+957,Quam Product,Snacks,Mahal PLC,576.61,434.74
+958,Accusantium Product,Dairy,Dube-Suresh,310.43,170.59
+959,Nemo Product,Fruits,"Mani, Chander and Ahuja",939.55,496.28
+960,Praesentium Product,Beverages,"Karan, Doctor and Taneja",822.37,710.34
+961,Vero Product,Household,Kumer Ltd,983.9,566.78
+962,Rerum Product,Fruits,Karnik-Sodhi,274.48,227.41
+963,Enim Product,Snacks,Rao LLC,970.33,696.55
+964,Nulla Product,Household,"Sampath, Vasa and Kaur",442.61,235.09
+965,Eos Product,Beverages,Hans and Sons,360.57,318.09
+966,Expedita Product,Fruits,Sharma Inc,69.34,41.52
+967,Iste Product,Household,Chad PLC,71.71,60.51
+968,Dicta Product,Fruits,Yohannan-Vasa,698.17,396.23
+969,Placeat Product,Fruits,Konda-Acharya,468.77,394.51
+970,In Product,Beverages,Manne Group,241.99,122.28
+971,Consequuntur Product,Dairy,Sarma-Tiwari,621.69,438.11
+972,Reprehenderit Product,Household,Koshy Inc,267.8,216.32
+973,Consequatur Product,Beverages,Edwin and Sons,586.08,512.19
+974,Exercitationem Product,Fruits,Bhasin-Bose,372.02,321.31
+975,Eligendi Product,Beverages,"Kumer, Rau and Wagle",827.08,684.7
+976,Aspernatur Product,Dairy,"Talwar, Deshmukh and Soni",824.28,704.99
+977,Mollitia Product,Household,Tank PLC,487.8,282.77
+978,In Product,Dairy,"Tata, Kadakia and Sengupta",363.8,223.25
+979,Magnam Product,Snacks,Rout Group,375.31,231.04
+980,Molestias Product,Household,Ratta-Grover,809.6,526.91
+981,Asperiores Product,Dairy,"Saxena, Behl and Dara",341.62,224.56
+982,Doloremque Product,Fruits,Datta-Deshpande,224.88,161.42
+983,Ipsam Product,Household,"Shah, Zacharia and Bandi",102.99,58.08
+984,Repellat Product,Household,"Sanghvi, Hans and Sahni",477.36,370.67
+985,Sed Product,Beverages,"Viswanathan, Bail and Dhingra",492.49,279.25
+986,Perspiciatis Product,Fruits,Joshi-Keer,844.09,526.82
+987,Veritatis Product,Snacks,Varughese-Dhawan,236.81,166.08
+988,Cum Product,Dairy,"Lad, Bawa and Rao",393.37,322.0
+989,Eligendi Product,Beverages,Bava and Sons,812.24,646.37
+990,Consequatur Product,Dairy,Sharma Ltd,827.15,627.16
+991,Voluptatibus Product,Snacks,Salvi-Raju,396.92,223.19
+992,Nam Product,Snacks,Taneja-Chaudhry,469.94,337.8
+993,Sapiente Product,Household,Saxena-Jaggi,317.22,169.71
+994,Animi Product,Snacks,Thaker-Sandhu,933.9,607.92
+995,Molestias Product,Dairy,"Uppal, D’Alia and Tella",136.27,90.67
+996,Reprehenderit Product,Fruits,"Lalla, Sama and Rattan",935.07,482.43
+997,Quaerat Product,Fruits,Swaminathan and Sons,690.19,420.74
+998,Ipsa Product,Household,"Bala, Koshy and Sodhi",540.94,477.25
+999,Perspiciatis Product,Dairy,Dube-Gulati,52.01,45.84
+1000,Ut Product,Dairy,Dubey-Lad,486.08,311.54
